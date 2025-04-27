@@ -81,6 +81,12 @@ plt.show()
 ## PROGRAM WAVEFRONT
 ![image](https://github.com/user-attachments/assets/9a0bc5d3-bf32-4e7d-bc0f-111d1ceb6247)
 
+# GRAPH:
+
+![image](https://github.com/user-attachments/assets/3db27751-0f76-4109-8834-7e3ae5b4ec82)
+
+![image](https://github.com/user-attachments/assets/e9d012f2-40b7-4998-a876-1c76a9fe2432)
+
 ## RESULT
 
 THUS THE DELTA MODULATION SIGNAL IS PERFORMED USING PHYTON
